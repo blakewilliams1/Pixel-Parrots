@@ -46,20 +46,17 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\ArboretumBird.cs" />
-     <Compile Include="Assets\Scripts\ArboretumCamera.cs" />
-     <Compile Include="Assets\Scripts\ArboretumPerches.cs" />
-     <Compile Include="Assets\Scripts\Bird.cs" />
-     <Compile Include="Assets\Scripts\BirdInfoCamera.cs" />
-     <Compile Include="Assets\Scripts\Branch.cs" />
-     <Compile Include="Assets\Scripts\BranchMaster.cs" />
-     <Compile Include="Assets\Scripts\Duck.cs" />
-     <Compile Include="Assets\Scripts\Egg.cs" />
-     <Compile Include="Assets\Scripts\GameController.cs" />
-     <Compile Include="Assets\Scripts\OpenWorldCamera.cs" />
-     <Compile Include="Assets\Scripts\Parrot.cs" />
-     <Compile Include="Assets\Scripts\ThumbPad.cs" />
-     <Compile Include="Assets\Scripts\WildBird.cs" />
+     <Compile Include="Assets\Resources\Scripts\ArboretumBird.cs" />
+     <Compile Include="Assets\Resources\Scripts\ArboretumCamera.cs" />
+     <Compile Include="Assets\Resources\Scripts\ArboretumPerches.cs" />
+     <Compile Include="Assets\Resources\Scripts\Bird.cs" />
+     <Compile Include="Assets\Resources\Scripts\BirdInfoCamera.cs" />
+     <Compile Include="Assets\Resources\Scripts\Branch.cs" />
+     <Compile Include="Assets\Resources\Scripts\GameController.cs" />
+     <Compile Include="Assets\Resources\Scripts\OpenWorldBird.cs" />
+     <Compile Include="Assets\Resources\Scripts\OpenWorldCamera.cs" />
+     <Compile Include="Assets\Resources\Scripts\ThumbPad.cs" />
+     <Compile Include="Assets\Resources\Scripts\WildBird.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
